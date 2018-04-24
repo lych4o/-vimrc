@@ -1,4 +1,4 @@
-# -vimrc
+# vimrc_lych
 支持一键编译运行cpp/c/cuda的vim配置
 
 已实现功能:
